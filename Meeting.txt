@@ -26,12 +26,24 @@ Next week’s coordinator: Md Moijul Islam
 Current Cordinator: MD Moijul Islam
 Everyone Preset 
 What we need to do this week:
-    - Working on Risk factors - Adrian and Matt
-    - writing on 500 words of the Litrature - siyang
-    - Finish all the diagram - Cabin
-    - Starting on the Database - MD
+-   Working on Risk factors - Adrian and Matt
+-   writing on 500 words of the Litrature - siyang
+-   Finish all the diagram - Cabin
+-   Starting on the Database - MD
 Soft Deadine: 04/03/2022
 Hard Deadline: 09/03/2022
-Next Weeks Cordinator: Cavin
+Next Weeks Coordinator: Cabin Rai
 
 
+10/03/2022 Meeting SD
+Current Coordinator: Cabin Rai
+Everyone Present
+What we need to do this week:
+-   complete the Requirements document - Cabin
+-   work on implementing shopping cart - Siyang
+-   build the database - MD
+-   Finalise the Introduction & Aims and Objectives - Adrian
+-   Continue on building webpage - Matt
+soft deadline: 13/03/2022
+Hard Deadline: 16/03/2022
+Next Weeks Coordinator: Siyang 
